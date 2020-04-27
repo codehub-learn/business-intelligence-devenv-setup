@@ -1,4 +1,4 @@
-# Hardware and software requirements for Data Engineering
+# Hardware and software requirements for Business Intelligence
 
 Getting your PC ready 
 ## PC's specs
