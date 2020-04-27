@@ -1,6 +1,6 @@
 # Hardware and software requirements for Data Engineering
 
-Getting your PC ready for Java Development
+Getting your PC ready 
 ## PC's specs
 - 8 GB RAM
 - 128 GB Storage (SSD would be preferrable)
