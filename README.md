@@ -12,15 +12,16 @@ Getting your PC ready
 You will need the MS-SQL Server database (RDBMS), the MS-SQL Server management interface and the Power BI desktop application.
 In detail you have to download:
 
-1. MS-SQL Server
+1.  [SQL Server Developer 2019 ](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+    - Download the Developer edition (SQL2019-SSEI-Dev.exe)
+    - Execute the SQL2019-SSEI-Dev.exe,  choose Download Media at a specified location
+	- Use ISO packaging, mount and install
+	- After checking your computer, make full installation, select all oprions and proceed using default settings
+	- Add current user in all cases
+	- Choose mixed mode authentication using the password
+        Password: `passw0rd`	
 
-**[ Download the Developer version](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)**, 
-run the SQL2019-SSEI-Dev.exe file and select Download Media to get all the installation material on the computer. ISO file is preferred.
-Select the ISO file, open it, find the setup file, run it and continue with full installation. You will need to give the appropriate rights to the current user.
-
-2. MS-SQL Server Management Environment
-
-**[Download the Download SQL Server Management Studio (SSMS)](https://docs.microsoft.com/el-gr/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)**
+1.  [SQL Server Management Studio, SSMS 18.5.1](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15) 
 and install the SSMS-Setup-ENU.exe file.
 
 
