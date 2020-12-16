@@ -7,7 +7,7 @@ Getting your PC ready
 - 4 Core CPU
 - Windows 10, 64 bit
 
-##Important notice
+## Important notice
 Mac or Linux users can install MS-SQL server using Docker. Instead of Management Studio, Azure Portal Application can be used but without the diagrammatic capabilities. Power BI is NOT supported. Windows in a virtual machine can be an option, or dual boot. 
 
 ## Required software 
